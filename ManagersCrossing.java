@@ -1,4 +1,4 @@
-// Chase Whitney
+// Kassie Whitney
 public class ManagersCrossing {
 	public static boolean isMoveOkay(int boatBefore, int managerABefore, int managerBBefore, int managerCBefore,
 									 int engineerABefore, int engineerBBefore, int engineerCBefore,

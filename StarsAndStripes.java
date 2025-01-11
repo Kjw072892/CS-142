@@ -12,7 +12,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.border.BevelBorder;
 
-// Chase Whitney
+// Kassie Whitney
 
 public class StarsAndStripes {
     public static void drawFlag(int stars, int stripes, Graphics g, int x, int y, int width, int height) {

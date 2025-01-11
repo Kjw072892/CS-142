@@ -1,4 +1,4 @@
-// Chase Whitney
+// Kassie Whitney
 public class BakingCalculator {
     public static void main(String[] args) {
 
